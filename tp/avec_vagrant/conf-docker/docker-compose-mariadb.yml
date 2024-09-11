@@ -1,0 +1,34 @@
+version: '3'
+            
+networks:
+  mynetwork:
+    external: true
+            
+services:
+  mariadb:
+    image: mariadb:10.6
+    container_name: dataflow-mariadb
+    restart: always
+    environment:
+      MARIADB_DATABASE: devise_db
+      MARIADB_ROOT_PASSWORD: root
+    networks:
+      mynetwork:
+        aliases:
+          - mysql_host
+          - mariadb_host
+    expose:
+      - 3306
+    ports:
+      - '3306:3306'
+  c_demo:
+    #build : ../../rep_avec_Dockerfile
+    image: xyz/demo
+    restart: always
+    container_name: c_demo
+    ports:
+      - '8282:8181'
+    networks:
+      mynetwork:
+        aliases:
+          - demo_host

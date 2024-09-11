@@ -1,0 +1,104 @@
+QCM DevOps
+============
+1) que signifie le sigle devOps?
+A) un dev qui après un bug dit oups ...
+B) un jeu: c'est de la faute de l'autre équipe "dev" ou "ops"
+C) une automatisation de l'enchaînement des activités de développement et de mise en production 
+
+2) dans un cadre "devOps", que signifie "CD" ?
+A) change directory 
+B) compact disc 
+C) continuous delivery/deployment
+
+3) que signifie "intégration continue" ?
+A) calcul mathématique d'intégrales en continu.
+B) bonne pratique agile : intégrer les nouveaux collaborateurs en continu 
+C) intégrer en continu le bon code validé par des tests réussis
+
+4) comment construire une image docker?
+A) docker build et fichier Dockerfile
+B) docker image make
+C) photographier un docker dans un port
+
+5) d'où vient docker?
+A) du monde Microsoft/windows 
+B) du monde linux
+C) du monde maritime en tique (informatique de la gestion de conteneurs dans les ports)
+
+6) à quoi sert Jenkins ?
+A) à gérer intégration continue et la suite.
+B) a gérer la logistique 
+C) à modéliser un système informatique 
+
+7) comment lancer un conteneur docker?
+A) docker launch ....
+B) docker run ....
+C) docker execute ....
+
+8) comment appelle t on le code d'un conteneur docker?
+A) un  bundle
+B) une archive exécutable 
+C) une image
+
+9) quel type de code dans un conteneur docker?
+A) n'importe quel langage et type de logiciel 
+B) du code java
+C) du code JavaScript 
+
+10) avantages du pipeline Jenkins ?
+A) ça fonctionne même sous mac
+B) la configuration d'un job est centralisée dans un script et pas disséminée au 4 coins d'une config de la console d'administration .
+C) réutilisation possible des pipes d'angular
+
+11) particularité principale d'un nightly build ?
+A) plus long, plus poussé (variante)
+B) réutilisation de eclipse ou intellij
+C) lancé manuellement à 3h du matin par un administrateur insomniaque .
+
+12) intérêt principal de docker-compose?
+A) scripts composites
+B) configurer un lancement cohérent de plusieurs containers dockers prévus pour communiquer entre eux
+C) composition automatique d'une adresse IP via DHCP
+
+13) commande "node JS" pour construire une appli ou lancer des tests
+A) npm run ...
+B) node_build ...
+C) node_run ...
+
+14) comment afficher la liste de tous les conteneurs dockers ?
+A) docker-compose liste
+B) docker container ls -a
+C) dock list -a
+
+15) à quoi sert la commande docker pull
+A) à récupérer une config docker via git 
+B) à télécharger une image docker
+C) a récupérer la liste des conteneurs disponibles 
+
+16) possibilité intéressante de Jenkins ?
+A) envoyer mail aux développeurs si échec d'un job/build.
+B) reconfiguration automatique 
+C) code généré depuis diagramme uml
+
+17) a quoi peut servir kubernates ?
+A) à gérer des clusters d'ordinateurs pour ajuster la puissance de traitement en fonction du nombre d'utilisateurs 
+B) à administrer une appli SpringBoot
+C) à versionner le code d'une application 
+
+18) idéalement, que faut il mettre en œuvre pour peaufiner un enchaînement "devOps" ?
+A) des fichiers d'adresses IP fixes
+B) des remontées de mesures (monitoring)
+C) des certificats de bonne conduite pour éviter des échanges d'insultes 
+
+19)  quel est l'avantage d'un linux en mode texte pour la prod ?
+A) syntaxe claire (pas abrégée)
+B) ide confortable 
+C) consomme peu de mémoire vive
+
+20) un des avantages de nodejs vis à vis de java vers 2020 ?
+A) démarre rapidement et consomme moins de mémoire 
+B) langage JS plus sophistiqué et plus fiable 
+C) compilation de JavaScript plus rigoureuse et plus sécurisée 
+
+
+

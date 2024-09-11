@@ -1,0 +1,15 @@
+Fondamentaux DevOps (3jours : lu,mar,mer)
+Formateur : Didier Defrance
+9h-12h30 et 13h30-17h ?
+========
+https://github.com/didier-tp/devOpsSeptembre2024
+=======
+1) télécharger VirtualBox et Vagrant
+2) installer VirtualBox (redémarrer si c'est obligatoire)
+3) installer Vagrant (redémarrer si c'est demandé)
+4) récupérer contenu tp/avec_vagrant  (Vagrantfile + ...sh)
+5) vagrant up
+5b) vagrant provision
+6) vagrant ssh 
+6b) vagrant status 
+7) vagrant halt
